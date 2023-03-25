@@ -1,19 +1,7 @@
 # Acciojob_Module_Test_F1_01.02.2023
-<p>Click on the below link to view the Webpage<br>
-https://slolusare96.github.io/Acciojob_Module_Test_F1_01.02.2023/</p>
+- Deployed link: https://shubham-lolusare.github.io/Acciojob_Module_Test_F1_01.02.2023/
+- Figma Link: https://www.figma.com/file/eKxXOYlmvkpGZ2w51DxOwa/Bootstrap-Contest?node-id=0%3A1&t=a46ZHxugNXZd5gCI-1
 
-<h3>Project Overview</h3>
-    <ul>
-      <li>
-        The goal of this contest is to create a UI as shown in the Figma file at
-        the following link:
-        <br />
-        <a
-          href="https://www.figma.com/file/eKxXOYlmvkpGZ2w51DxOwa/Bootstrap-Contest?node-id=0%3A1&t=a46ZHxugNXZd5gCI-1"
-          >https://www.figma.com/file/eKxXOYlmvkpGZ2w51DxOwa/Bootstrap-Contest?node-id=0%3A1&t=a46ZHxugNXZd5gCI-1</a
-        >
-      </li>
-    </ul>
     <h3>Requirements</h3>
     <ul>
       <li>All images used in the UI are your choice.</li>
